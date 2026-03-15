@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="milGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff38a"/>
+      <stop offset="100%" stop-color="#ffd000"/>
+    </linearGradient>
+  </defs>
+  <!-- Fighter-style silhouette: nose UP, wings swept. Same rotation convention as plane.svg. -->
+  <path d="M32 8 L40 24 L52 26 L40 28 L42 54 L32 46 L22 54 L24 28 L12 26 L24 24 Z"
+        fill="url(#milGrad)" stroke="#5a4a00" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>
